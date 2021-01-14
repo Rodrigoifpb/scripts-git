@@ -1,7 +1,7 @@
 #!/bin/bash
 #1.0 Rodrigo Pontes ; 26/11/2020
 
-#updating database
+#updating database#
 updatedb
 
 locate logback.xml > list.txt
